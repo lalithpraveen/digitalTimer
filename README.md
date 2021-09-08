@@ -1,4 +1,4 @@
-?**Live link** https://strawhattimer.ccbp.tech/
+**Live link** https://strawhattimer.ccbp.tech/
 
 In this practice I built a **Digital Timer** by applying the concepts I have learned till now.
 
