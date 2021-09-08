@@ -1,4 +1,6 @@
-In this practice let's build a **Digital Timer** by applying the concepts we have learned till now.
+?**Live link** https://strawhattimer.ccbp.tech/
+
+In this practice I built a **Digital Timer** by applying the concepts I have learned till now.
 
 ### Refer to image below:
 
@@ -18,19 +20,11 @@ In this practice let's build a **Digital Timer** by applying the concepts we hav
 
 </details>
 
-## Project Set Up Instructions
+
+### Project Details
 
 <details>
-<summary>Click to view the Set Up Instructions</summary>
-
-- Download dependencies by running `npm install`
-- Start up the app using `npm start`
-</details>
-
-### Project Completion Instructions
-
-<details>
-<summary>Click to view the Functionality to be added</summary>
+<summary>Click to view the Functionality  added</summary>
 
 #### Add Functionality
 
@@ -76,52 +70,7 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Click to view the Implementation Files</summary>
 
-- Your task is to complete the implementation of
-  - `src/components/DigitalTimer/index.js`
-  - `src/components/DigitalTimer/index.css`
-
-</details>
-
-
-> #### Important Note
->
-> <details open>
-> <summary>Click to view Important Note Points</summary>
->
-> **The following HTML attributes are required for the HTML button and image elements for the tests to pass**
->
-> - The HTML main heading element to display the time should have the testid attribute and its value as `timer`
-> </details>
-
-
-### Quick Tips
-
-<details>
-<summary>Click to view Quick Tips</summary>
-
-- You can use the below box-shadow CSS property to apply box-shadow effect to
-  the containers,
-
-  ```
-    box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
-
-  ```
-- The floor() method rounds a number **DOWNWARDS** to the nearest integer, and
-  returns the result.
-    
-    ```
-    console.log(Math.floor(5.95)); // output: 5
-    ```
-- You can use the `background-position` property to set the starting position of a background image.
-    
-    ```
-    background-position: center;
-    ```
-
-</details>
 <br/>
 
 ### Resources
@@ -155,11 +104,4 @@ The app must have the following functionalities
 
 - Roboto
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being
->   imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a
->   look at the Cheat Sheets.
+
